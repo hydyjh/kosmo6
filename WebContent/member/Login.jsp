@@ -6,10 +6,7 @@
 <meta charset="UTF-8">
 <title>Login.jsp</title>
 </head>
-<body>
+<body>	
 	<h2>회원가입</h2>
-	<form>
-		<input type="text"/>
-	</form>
 </body>
 </html>
